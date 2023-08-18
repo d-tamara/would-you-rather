@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "firstQuestion": "Would you rather A",
+    "secondQuestion": "Would you rather B",
+    "firstAnswerSelected": 1,
+    "secondAnswerSelected": 1
+  },
+  {
+    "id": 1,
+    "firstQuestion": "Would you rather C",
+    "secondQuestion": "Would you rather D",
+    "firstAnswerSelected": 2,
+    "secondAnswerSelected": 1
+  },
+  {
+    "id": 2,
+    "firstQuestion": "Would you rather E",
+    "secondQuestion": "Would you rather F",
+    "firstAnswerSelected": 1,
+    "secondAnswerSelected": 1
+  },
+  {
+    "id": 3,
+    "firstQuestion": "Would you rather G",
+    "secondQuestion": "Would you rather D",
+    "firstAnswerSelected": 1,
+    "secondAnswerSelected": 1
+  }
+]
+
